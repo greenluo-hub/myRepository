@@ -1,0 +1,10 @@
+C:\Users\luo\source\repos\demo23\demo23\bin\Debug\demo23.exe.config
+C:\Users\luo\source\repos\demo23\demo23\bin\Debug\demo23.exe
+C:\Users\luo\source\repos\demo23\demo23\bin\Debug\demo23.pdb
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.csprojAssemblyReference.cache
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.Form1.resources
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.csproj.GenerateResource.cache
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.csproj.CoreCompileInputs.cache
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.exe
+C:\Users\luo\source\repos\demo23\demo23\obj\Debug\demo23.pdb
