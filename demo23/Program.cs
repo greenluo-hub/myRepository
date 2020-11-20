@@ -14,6 +14,7 @@ namespace demo23
         [STAThread]
         static void Main()
         {
+            Console.WriteLine("hello world！");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
